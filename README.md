@@ -7,8 +7,7 @@ HOW TO RUN THIS
 3. Import the MySQL named "studentmanagement.sql" from folder student Management System/student Management System/database file/studentmanagement.sql
 4. click on go.
 5. let it import.
-6. Open the project using http://localhost:80/schoolManagementSystem/
-7. Admin Id and password are : admin - admin 
+6. Admin Id and password are : admin - admin 
 
 for details refer to the final project. It has all the details of how this project will work.
 
